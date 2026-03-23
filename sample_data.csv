@@ -1,0 +1,201 @@
+Date,Region,Product,Sales_Channel,Units_Sold,Unit_Price,Revenue,Profit,Customer_Rating
+2025-02-09,West,Tablet,Online,19,752,14288,6079.63,3.2
+2025-05-18,West,Laptop,Online,20,1034,20680,7045.92,4.8
+2025-01-11,East,Laptop,Distributor,13,326,4238,947.31,3.0
+2025-03-10,North,Headphones,Online,14,828,11592,2358.89,2.6
+2025-03-31,South,Smartwatch,Retail Store,15,1142,17130,5203.79,4.5
+2025-05-24,East,Tablet,Retail Store,4,699,2796,602.93,3.8
+2025-06-18,West,Headphones,Distributor,15,678,10170,3947.36,5.0
+2025-06-14,South,Tablet,Online,16,867,13872,4459.77,3.7
+2025-04-11,South,Phone,Distributor,13,988,12844,4368.62,4.8
+2025-04-14,East,Smartwatch,Distributor,17,586,9962,4093.12,4.5
+2025-03-24,East,Tablet,Distributor,18,853,15354,6499.19,4.1
+2025-03-25,South,Smartwatch,Distributor,13,136,1768,415.11,3.7
+2025-01-31,North,Headphones,Retail Store,4,861,3444,1062.85,4.7
+2025-01-26,West,Smartwatch,Retail Store,9,180,1620,623.52,4.9
+2025-01-21,North,Tablet,Distributor,16,773,12368,4533.77,4.5
+2025-02-01,South,Smartwatch,Online,10,528,5280,1723.04,3.6
+2025-01-21,North,Smartwatch,Distributor,3,502,1506,369.89,2.9
+2025-01-02,West,Tablet,Retail Store,15,190,2850,938.61,4.0
+2025-03-06,East,Laptop,Retail Store,10,332,3320,1349.04,5.0
+2025-04-01,East,Laptop,Online,15,1361,20415,6315.47,3.9
+2025-02-11,North,Tablet,Online,1,995,995,202.48,3.2
+2025-03-29,North,Headphones,Online,8,189,1512,646.96,3.2
+2025-04-10,North,Laptop,Retail Store,2,1491,2982,1135.06,4.5
+2025-04-21,North,Headphones,Retail Store,13,542,7046,1417.77,5.0
+2025-04-06,South,Phone,Retail Store,20,1136,22720,9889.55,3.5
+2025-06-20,North,Tablet,Distributor,19,1076,20444,4127.97,3.5
+2025-04-11,South,Laptop,Distributor,17,1022,17374,5723.88,4.8
+2025-02-02,East,Laptop,Distributor,3,1036,3108,1139.5,3.9
+2025-04-06,North,Headphones,Online,6,524,3144,853.06,3.2
+2025-01-04,South,Phone,Retail Store,4,1068,4272,1019.39,4.7
+2025-02-02,East,Laptop,Retail Store,14,1141,15974,4766.51,4.5
+2025-03-31,South,Laptop,Online,14,655,9170,3530.64,4.2
+2025-01-03,North,Phone,Retail Store,10,501,5010,2037.68,4.0
+2025-03-27,East,Laptop,Distributor,20,221,4420,1699.97,2.6
+2025-01-15,East,Headphones,Online,12,1244,14928,4844.62,4.6
+2025-06-16,East,Phone,Distributor,9,1146,10314,2231.83,4.4
+2025-04-02,North,Tablet,Distributor,17,706,12002,4433.46,4.8
+2025-03-12,South,Tablet,Retail Store,15,1093,16395,4428.42,4.7
+2025-01-13,North,Tablet,Online,15,305,4575,1199.21,4.4
+2025-02-04,West,Laptop,Online,5,1140,5700,2306.8,4.1
+2025-03-09,West,Smartwatch,Retail Store,7,735,5145,1839.02,3.1
+2025-04-23,East,Phone,Online,15,1297,19455,5605.37,2.9
+2025-06-06,West,Smartwatch,Retail Store,18,142,2556,594.39,4.4
+2025-05-20,East,Tablet,Distributor,20,141,2820,700.68,3.8
+2025-01-30,South,Headphones,Retail Store,19,144,2736,1001.97,3.1
+2025-05-15,East,Smartwatch,Distributor,15,234,3510,1500.22,2.8
+2025-05-10,North,Headphones,Online,16,1460,23360,7506.29,4.3
+2025-06-20,North,Headphones,Retail Store,16,435,6960,3022.86,4.3
+2025-01-26,South,Headphones,Distributor,10,422,4220,951.22,3.2
+2025-01-26,West,Tablet,Retail Store,3,779,2337,590.74,4.9
+2025-05-29,West,Tablet,Distributor,3,468,1404,454.05,4.8
+2025-03-19,West,Tablet,Online,3,831,2493,807.65,4.4
+2025-03-26,South,Tablet,Online,13,942,12246,5345.73,4.0
+2025-02-09,South,Phone,Distributor,11,671,7381,2882.24,3.6
+2025-02-18,North,Tablet,Retail Store,4,155,620,204.3,4.2
+2025-04-08,East,Smartwatch,Retail Store,19,720,13680,4703.09,4.8
+2025-04-08,East,Smartwatch,Retail Store,15,392,5880,1489.22,2.6
+2025-01-03,North,Tablet,Retail Store,13,711,9243,3740.51,2.5
+2025-04-16,North,Headphones,Distributor,2,312,624,265.24,3.1
+2025-06-09,West,Headphones,Distributor,19,406,7714,1916.3,2.8
+2025-04-13,North,Phone,Online,1,1272,1272,335.67,2.8
+2025-03-14,South,Laptop,Distributor,13,443,5759,1415.31,3.7
+2025-05-12,South,Phone,Retail Store,15,336,5040,1871.12,4.4
+2025-02-08,North,Headphones,Online,7,1215,8505,2576.11,4.3
+2025-03-10,West,Phone,Retail Store,17,278,4726,1619.68,3.0
+2025-02-09,South,Smartwatch,Online,4,853,3412,1432.41,4.5
+2025-02-23,North,Tablet,Distributor,19,1160,22040,7148.11,2.9
+2025-04-13,North,Smartwatch,Online,10,606,6060,2420.4,3.1
+2025-05-06,North,Phone,Distributor,15,514,7710,3154.21,3.8
+2025-02-20,East,Laptop,Online,11,297,3267,1174.31,4.0
+2025-05-30,North,Laptop,Retail Store,3,1397,4191,1802.0,3.1
+2025-04-05,East,Tablet,Online,3,557,1671,565.94,3.1
+2025-01-01,West,Tablet,Retail Store,10,1118,11180,2827.37,4.7
+2025-04-20,South,Tablet,Retail Store,10,755,7550,2812.98,4.2
+2025-02-18,East,Laptop,Online,19,585,11115,3292.3,4.9
+2025-06-26,South,Tablet,Retail Store,15,857,12855,3926.01,3.3
+2025-04-25,West,Headphones,Distributor,15,364,5460,1292.08,3.5
+2025-02-15,North,Laptop,Distributor,18,420,7560,1768.5,3.1
+2025-02-14,South,Headphones,Distributor,9,1367,12303,3118.42,4.2
+2025-02-07,East,Laptop,Online,3,328,984,269.08,3.8
+2025-01-01,North,Laptop,Distributor,4,1167,4668,1496.49,4.8
+2025-04-08,West,Phone,Retail Store,10,378,3780,1438.13,2.6
+2025-04-29,East,Laptop,Distributor,13,969,12597,3828.29,3.5
+2025-02-03,South,Phone,Retail Store,11,477,5247,2003.28,4.3
+2025-05-17,North,Tablet,Distributor,17,1301,22117,9712.68,3.6
+2025-04-25,North,Phone,Distributor,13,135,1755,726.46,4.3
+2025-01-10,West,Smartwatch,Retail Store,13,166,2158,903.56,4.9
+2025-04-07,North,Tablet,Online,9,310,2790,1032.38,2.6
+2025-03-10,North,Tablet,Retail Store,5,1348,6740,1832.5,3.9
+2025-01-09,East,Tablet,Retail Store,7,132,924,332.82,4.0
+2025-01-26,South,Laptop,Online,14,350,4900,2171.72,3.0
+2025-02-28,North,Smartwatch,Distributor,6,857,5142,2029.36,2.6
+2025-05-21,North,Laptop,Retail Store,11,1066,11726,3418.22,3.8
+2025-06-30,South,Phone,Distributor,12,335,4020,995.19,4.9
+2025-03-21,West,Laptop,Distributor,19,1230,23370,5054.56,3.8
+2025-01-25,South,Laptop,Online,16,293,4688,1043.58,4.7
+2025-01-31,South,Headphones,Distributor,3,595,1785,600.69,4.8
+2025-05-04,North,Headphones,Retail Store,19,150,2850,866.9,4.1
+2025-05-06,West,Laptop,Online,6,1250,7500,1734.26,2.6
+2025-01-28,West,Phone,Online,9,679,6111,1681.4,3.0
+2025-04-17,East,Laptop,Distributor,4,866,3464,812.81,3.4
+2025-03-24,West,Phone,Online,17,182,3094,1373.76,5.0
+2025-03-11,East,Headphones,Distributor,3,1446,4338,961.0,3.9
+2025-04-22,West,Laptop,Online,5,881,4405,1965.19,3.4
+2025-05-08,South,Laptop,Online,11,176,1936,543.37,2.8
+2025-05-13,East,Headphones,Online,13,953,12389,5253.46,3.9
+2025-02-08,West,Phone,Retail Store,4,1461,5844,2346.85,3.3
+2025-04-05,North,Headphones,Distributor,16,232,3712,1192.77,4.0
+2025-01-03,East,Laptop,Online,8,853,6824,1482.7,2.9
+2025-01-16,North,Tablet,Retail Store,17,1361,23137,7368.49,4.8
+2025-05-24,West,Phone,Retail Store,8,923,7384,2308.82,3.0
+2025-01-26,North,Headphones,Online,15,1410,21150,6245.63,4.9
+2025-03-02,North,Smartwatch,Retail Store,1,968,968,407.05,3.6
+2025-05-03,East,Phone,Online,14,160,2240,509.33,2.7
+2025-05-01,South,Laptop,Online,17,1438,24446,5451.28,3.4
+2025-04-21,West,Smartwatch,Online,17,1212,20604,7866.07,3.0
+2025-02-28,West,Smartwatch,Online,2,478,956,418.06,4.8
+2025-03-23,South,Smartwatch,Distributor,3,1019,3057,1057.75,3.4
+2025-06-30,East,Phone,Distributor,19,1270,24130,7073.3,4.9
+2025-03-16,East,Smartwatch,Online,19,251,4769,1470.36,2.7
+2025-01-22,West,Headphones,Retail Store,10,240,2400,1049.48,4.7
+2025-05-20,East,Headphones,Distributor,9,885,7965,2255.13,4.7
+2025-05-09,South,Laptop,Online,16,403,6448,1773.05,4.8
+2025-02-15,North,Laptop,Online,9,1369,12321,4197.71,3.1
+2025-02-07,West,Tablet,Online,9,481,4329,1266.93,3.8
+2025-04-15,South,Laptop,Retail Store,8,1240,9920,2919.34,3.8
+2025-03-01,West,Smartwatch,Online,15,474,7110,2428.73,4.8
+2025-03-16,South,Smartwatch,Retail Store,9,811,7299,3227.57,3.7
+2025-04-20,South,Laptop,Online,1,735,735,304.18,4.5
+2025-02-02,West,Tablet,Distributor,18,754,13572,4900.62,3.0
+2025-04-21,East,Tablet,Online,4,926,3704,949.38,4.1
+2025-05-07,North,Laptop,Distributor,1,325,325,112.84,3.3
+2025-02-12,South,Phone,Online,15,351,5265,1448.41,3.1
+2025-04-22,East,Smartwatch,Online,2,372,744,299.57,3.9
+2025-01-02,South,Tablet,Retail Store,20,766,15320,3353.47,3.0
+2025-04-02,South,Smartwatch,Retail Store,16,110,1760,445.94,3.3
+2025-05-02,East,Laptop,Online,6,644,3864,1625.6,3.8
+2025-06-07,East,Headphones,Retail Store,19,1198,22762,5877.34,4.1
+2025-02-07,North,Laptop,Online,5,1270,6350,2232.04,3.5
+2025-02-27,West,Headphones,Online,14,1087,15218,5654.72,3.3
+2025-05-26,North,Laptop,Online,5,1283,6415,2785.8,4.1
+2025-06-25,North,Tablet,Distributor,8,325,2600,683.66,4.5
+2025-06-16,West,Smartwatch,Retail Store,8,1110,8880,2348.3,4.0
+2025-01-16,South,Smartwatch,Online,19,736,13984,4053.93,3.6
+2025-03-25,South,Headphones,Online,16,944,15104,3613.77,4.9
+2025-04-07,South,Headphones,Distributor,4,233,932,219.32,4.8
+2025-03-06,West,Headphones,Distributor,11,898,9878,2618.98,2.7
+2025-02-06,North,Laptop,Distributor,10,1413,14130,5348.1,4.4
+2025-03-06,North,Smartwatch,Retail Store,19,828,15732,3562.19,4.8
+2025-04-08,North,Tablet,Retail Store,2,394,788,169.88,4.7
+2025-06-13,South,Headphones,Online,20,990,19800,8839.35,3.1
+2025-01-01,East,Headphones,Retail Store,15,1083,16245,6031.34,3.3
+2025-01-11,North,Phone,Retail Store,6,1297,7782,2125.55,4.3
+2025-05-29,West,Headphones,Distributor,1,936,936,307.11,3.7
+2025-04-04,West,Smartwatch,Online,4,725,2900,1170.54,4.5
+2025-01-24,West,Headphones,Retail Store,15,1295,19425,4407.2,3.4
+2025-05-31,East,Smartwatch,Online,14,1353,18942,8162.72,4.5
+2025-03-23,North,Smartwatch,Distributor,17,465,7905,1743.25,2.5
+2025-01-19,North,Phone,Distributor,18,671,12078,4190.06,4.4
+2025-01-24,West,Smartwatch,Retail Store,15,458,6870,2576.71,4.6
+2025-05-09,West,Smartwatch,Online,1,410,410,131.93,4.9
+2025-04-30,North,Headphones,Distributor,6,342,2052,763.34,2.6
+2025-01-13,East,Phone,Retail Store,18,856,15408,3584.71,2.8
+2025-02-01,East,Laptop,Online,3,806,2418,756.38,3.5
+2025-06-03,West,Tablet,Distributor,14,795,11130,4466.77,3.3
+2025-02-10,North,Headphones,Online,3,294,882,391.3,4.2
+2025-03-28,East,Tablet,Retail Store,12,906,10872,3653.22,3.8
+2025-05-22,West,Smartwatch,Online,8,925,7400,1814.51,4.9
+2025-06-21,South,Phone,Distributor,10,1040,10400,2636.83,5.0
+2025-04-09,East,Phone,Distributor,3,383,1149,512.97,4.0
+2025-05-20,North,Smartwatch,Distributor,18,391,7038,2424.93,5.0
+2025-01-24,West,Headphones,Retail Store,20,1311,26220,9003.1,2.7
+2025-05-22,East,Tablet,Online,11,709,7799,2253.4,3.2
+2025-04-09,North,Tablet,Retail Store,11,1279,14069,4458.52,4.3
+2025-03-09,East,Tablet,Retail Store,16,882,14112,4542.48,4.6
+2025-05-23,West,Laptop,Retail Store,5,1159,5795,2506.95,2.9
+2025-04-29,South,Smartwatch,Online,12,1287,15444,3916.78,2.8
+2025-03-10,West,Laptop,Retail Store,15,368,5520,2084.46,5.0
+2025-04-07,East,Laptop,Retail Store,10,1420,14200,5704.89,2.6
+2025-04-23,North,Headphones,Retail Store,14,1049,14686,6249.43,2.9
+2025-01-06,East,Smartwatch,Distributor,4,195,780,344.88,2.9
+2025-01-21,North,Headphones,Online,15,776,11640,4652.86,2.8
+2025-05-04,North,Smartwatch,Online,7,161,1127,278.19,2.7
+2025-03-01,North,Smartwatch,Retail Store,15,418,6270,1701.73,4.8
+2025-05-08,East,Laptop,Online,20,1468,29360,9278.81,4.9
+2025-05-18,South,Smartwatch,Online,11,1403,15433,4927.92,3.4
+2025-05-02,East,Laptop,Distributor,20,661,13220,4804.56,4.6
+2025-05-12,South,Tablet,Distributor,6,400,2400,507.9,4.9
+2025-02-26,South,Headphones,Distributor,17,1128,19176,4831.29,2.9
+2025-05-13,East,Laptop,Retail Store,20,414,8280,2514.02,2.8
+2025-01-21,West,Phone,Retail Store,10,1167,11670,4161.63,3.5
+2025-01-12,South,Smartwatch,Retail Store,6,841,5046,1803.71,4.7
+2025-02-05,South,Headphones,Retail Store,4,1033,4132,995.9,2.5
+2025-06-10,South,Headphones,Retail Store,11,725,7975,2663.62,4.4
+2025-03-02,West,Smartwatch,Distributor,3,1325,3975,1352.41,4.1
+2025-05-06,North,Phone,Distributor,4,1334,5336,1695.44,4.0
+2025-03-05,West,Headphones,Online,20,607,12140,2887.88,3.6
+2025-04-04,South,Smartwatch,Online,13,726,9438,2032.23,3.0
+2025-04-24,South,Phone,Online,18,1199,21582,5216.49,3.2
+2025-03-23,North,Headphones,Online,12,1430,17160,3977.83,4.1
